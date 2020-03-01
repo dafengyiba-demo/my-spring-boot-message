@@ -1,0 +1,7 @@
+spring:
+  rabbitmq:
+    host: 127.0.0.1  #默认为localhost
+    username: guest  #默认为guest
+    password: guest  #默认为guest
+    virtual-host: /  #默认为/
+    port: 5672       #默认为5672
